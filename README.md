@@ -4,10 +4,13 @@
 This repository contains a deep learning workflow for fake news detection using an LSTM model.  
 The project demonstrates how sequence modeling can classify news articles as fake or real.
 
+##[Live Demo](https://youtu.be/Mv7T_Dird6s)
+
 ## Dataset
 - Source: Combined `Fake.csv` and `True.csv`.
 - Columns: `title`, `text`, `subject`, `date`.
 - Labels: `0 = Fake`, `1 = Real`.
+- Kaggle dataset : https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
 
 ## Notebook Contents
 - **Data Preparation:** Merge datasets, clean text, create labels.
