@@ -26,6 +26,9 @@ The project demonstrates how sequence modeling can classify news articles as fak
 2. Upload the dataset (`Fake.csv`, `True.csv`).
 3. Run cells sequentially to reproduce results.
 
+## Tools i used
+Python, TensorFlow/Keras, Scikit‑Learn, Matplotlib, Seaborn.
+
 ## Future Work
 - Experiment with bidirectional LSTMs.
 - Compare with GRU models.
